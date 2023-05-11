@@ -1,0 +1,35 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: beige;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+.HotChocolate {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+div {
+    text-align: center;
+}
+.IcedCaramelMacchiato {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.StrawberryAcaiRefresher {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.DoubleChocolatyChipCremeFrappuccino {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
